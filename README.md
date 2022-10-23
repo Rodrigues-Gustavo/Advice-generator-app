@@ -14,8 +14,8 @@
 
 
 <div align="center">
- 
 
+![gif-advice-generator](https://user-images.githubusercontent.com/102608021/197421608-1ef025c1-c6dd-4a45-a905-1e152631246f.gif)
 
 </div>
 
