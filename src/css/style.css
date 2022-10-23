@@ -3,7 +3,6 @@
 body {
     font-family: 'Inter Tight', sans-serif;
     font-size: 16px;
-    font-weight: 800px;
     padding: 1.25rem;
     background-color: var(--background-color);
     text-align: center;
@@ -31,6 +30,7 @@ img {
     font-size: 0.825rem;
     margin-bottom: 1rem;
     color: var(--advice-dice-color);
+    font-weight: 800px;
 }
 
 .container p {
